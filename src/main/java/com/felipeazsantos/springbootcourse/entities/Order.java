@@ -7,6 +7,7 @@ import java.util.Objects;
 import java.util.Set;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.felipeazsantos.springbootcourse.entities.enums.OrderStatus;
 
 import jakarta.persistence.Entity;
